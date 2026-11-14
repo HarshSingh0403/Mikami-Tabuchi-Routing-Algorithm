@@ -216,7 +216,6 @@ Developed as a team project for **Computer-Aided Design for IC Design** at **Vel
 - Adish Vipin
 - Tanmay Sharma
 
-**Faculty guide:** Dr. Umadevi S
 
 ## Potential extensions
 
